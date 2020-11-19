@@ -12,4 +12,5 @@ int main()
            result*=x;
    }
     cout << result;
+    return 0;
 }
